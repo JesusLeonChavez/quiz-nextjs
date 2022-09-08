@@ -6,7 +6,7 @@ export default function Navbar() {
     <div className={styles.navBarContainer}>
       <div className={styles.topBarWrapper}>
         <div className={styles.topLeft}>
-          <span className={styles.logo}>Lion ToDo</span>
+          <span className={styles.logo}>Lion Quiz app</span>
         </div>
         <div className={styles.topRight}>
           <div className={styles.topBarIconContainer}>a</div>
